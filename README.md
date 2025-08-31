@@ -1137,3 +1137,13 @@ footer {
   text-align: center;
   padding: 20px 0;
 }
+
+/assets
+   /css/style.css
+   /img/ (logos, photos de projets, arrière-plans)
+   /js/script.js (facultatif)
+/index.html        → Accueil
+/about.html        → À propos
+/services.html     → Services
+/projects.html     → Projets
+/contact.html      → Contact
