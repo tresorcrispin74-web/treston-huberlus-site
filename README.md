@@ -351,3 +351,138 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
     applyI18n();
   </script></body>
 </html>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Capability Statement - TRESTON HUBERLUS Invest & Co.,Ltd</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    // Textes FR/EN
+    const translations = {
+      fr: {
+        title: "Capability Statement",
+        intro: "TRESTON HUBERLUS Invest & Co.,Ltd est une entreprise spécialisée dans l’immobilier, la construction et les travaux publics. Nous nous engageons à fournir des solutions durables, innovantes et fiables qui favorisent la croissance.",
+        expertise: "Domaines d’expertise",
+        expList: ["Immobilier", "Construction", "Travaux publics", "Investissements"],
+        values: "Valeurs fondamentales",
+        valList: ["Durabilité", "Innovation", "Fiabilité", "Croissance"],
+        projects: "Projets phares",
+        projDesc: "Nous avons mené avec succès plusieurs projets dans l’immobilier et les travaux publics, toujours avec une vision durable et moderne.",
+        strengths: "Atouts compétitifs",
+        strList: [
+          "Expertise technique et stratégique",
+          "Équipe professionnelle et expérimentée",
+          "Approche axée sur la durabilité et l’innovation",
+          "Réseau solide dans les marchés locaux et internationaux"
+        ],
+        contact: "Contact institutionnel",
+        address: "Siège : [Ton adresse complète]",
+        email: "Email : contact@treston-huberlus.com",
+        phone: "Téléphone : +XXX XXX XXX",
+        pdf: "📄 Télécharger en PDF"
+      },
+      en: {
+        title: "Capability Statement",
+        intro: "TRESTON HUBERLUS Invest & Co.,Ltd is a company specialized in real estate, construction, and public works. We are committed to delivering sustainable, innovative, and reliable solutions that foster growth.",
+        expertise: "Areas of Expertise",
+        expList: ["Real Estate", "Construction", "Public Works", "Investments"],
+        values: "Core Values",
+        valList: ["Sustainability", "Innovation", "Reliability", "Growth"],
+        projects: "Flagship Projects",
+        projDesc: "We have successfully delivered multiple real estate and public works projects, always with a sustainable and modern vision.",
+        strengths: "Competitive Strengths",
+        strList: [
+          "Technical and strategic expertise",
+          "Professional and experienced team",
+          "Sustainability and innovation driven approach",
+          "Strong network in local and international markets"
+        ],
+        contact: "Institutional Contact",
+        address: "Head Office: [Your full address]",
+        email: "Email: contact@treston-huberlus.com",
+        phone: "Phone: +XXX XXX XXX",
+        pdf: "📄 Download PDF"
+      }
+    };
+
+    let currentLang = "fr";
+    function switchLang(lang) {
+      currentLang = lang;
+      const t = translations[lang];
+      document.getElementById("title").innerText = t.title;
+      document.getElementById("intro").innerText = t.intro;
+      document.getElementById("expertise").innerText = t.expertise;
+      document.getElementById("expList").innerHTML = t.expList.map(i => `<li>${i}</li>`).join("");
+      document.getElementById("values").innerText = t.values;
+      document.getElementById("valList").innerHTML = t.valList.map(i => `<li>${i}</li>`).join("");
+      document.getElementById("projects").innerText = t.projects;
+      document.getElementById("projDesc").innerText = t.projDesc;
+      document.getElementById("strengths").innerText = t.strengths;
+      document.getElementById("strList").innerHTML = t.strList.map(i => `<li>${i}</li>`).join("");
+      document.getElementById("contact").innerText = t.contact;
+      document.getElementById("address").innerText = t.address;
+      document.getElementById("email").innerText = t.email;
+      document.getElementById("phone").innerText = t.phone;
+      document.getElementById("pdfBtn").innerText = t.pdf;
+    }
+    window.onload = () => switchLang("fr");
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-white shadow-md p-4 flex justify-between items-center">
+    <img src="logo.png" alt="Logo" class="h-12">
+    <div>
+      <button onclick="switchLang('fr')" class="px-2">FR</button> | 
+      <button onclick="switchLang('en')" class="px-2">EN</button>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="max-w-5xl mx-auto p-6 space-y-8">
+    <h1 id="title" class="text-3xl font-bold text-blue-900"></h1>
+    <p id="intro" class="text-lg"></p>
+
+    <section>
+      <h2 id="expertise" class="text-2xl font-semibold text-green-700"></h2>
+      <ul id="expList" class="list-disc pl-6"></ul>
+    </section>
+
+    <section>
+      <h2 id="values" class="text-2xl font-semibold text-green-700"></h2>
+      <ul id="valList" class="list-disc pl-6"></ul>
+    </section>
+
+    <section>
+      <h2 id="projects" class="text-2xl font-semibold text-green-700"></h2>
+      <p id="projDesc"></p>
+    </section>
+
+    <section>
+      <h2 id="strengths" class="text-2xl font-semibold text-green-700"></h2>
+      <ul id="strList" class="list-disc pl-6"></ul>
+    </section>
+
+    <section>
+      <h2 id="contact" class="text-2xl font-semibold text-green-700"></h2>
+      <p id="address"></p>
+      <p id="email"></p>
+      <p id="phone"></p>
+    </section>
+
+    <div class="text-center">
+      <button id="pdfBtn" onclick="window.print()" class="bg-blue-600 text-white px-4 py-2 rounded-lg shadow">
+        📄 Télécharger en PDF
+      </button>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white p-4 text-center">
+    © 2025 TRESTON HUBERLUS Invest & Co.,Ltd. All rights reserved.
+  </footer>
+</body>
+</html>
