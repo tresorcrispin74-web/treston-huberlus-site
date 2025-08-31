@@ -604,7 +604,7 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
         legalText: `
           <p><strong>Company name:</strong> TRESTON HUBERLUS Invest & Co.,Ltd</p>
           <p><strong>Business sectors:</strong> Real Estate, Construction, Public Works</p>
-          <p><strong>Head office:</strong> [Your full address]</p>
+          <p><strong>Head office:</strong> [08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula]</p>
           <p><strong>Email:</strong> contact@treston-huberlus.com</p>
           <p><strong>Phone:</strong> +XXX XXX XXX</p>
         `,
