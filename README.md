@@ -995,3 +995,15 @@ Ce site sera hébergé via **GitHub Pages** et accessible à tous.
 - 📍 Adresse : **08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi,  
   Commune de Mont-Ngafula, Kinshasa 1, R.D. Congo**
 
+/assets
+   /css
+      style.css
+   /img
+      (logos, images, photos de projets)
+   /js
+      script.js
+index.html
+about.html
+services.html
+projects.html
+contact.html
