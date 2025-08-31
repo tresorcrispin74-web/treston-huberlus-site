@@ -662,3 +662,193 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
   </footer>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Capability Statement - TRESTON HUBERLUS Invest & Co.,Ltd</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    const translations = {
+      fr: {
+        title: "Capability Statement",
+        intro: "Présentation de l’entreprise",
+        introText: "TRESTON HUBERLUS Invest & Co.,Ltd est un acteur international dans l’immobilier, la construction et les travaux publics. Nous accompagnons les gouvernements, les institutions et les investisseurs privés dans des projets d’envergure, en mettant en avant la durabilité, l’innovation et la fiabilité.",
+        expertise: "Domaines d’expertise",
+        expertiseList: `
+          <li>Développement immobilier résidentiel et commercial</li>
+          <li>Grandes infrastructures et travaux publics</li>
+          <li>Construction durable & éco-responsable</li>
+          <li>Investissements et partenariats stratégiques</li>
+        `,
+        values: "Valeurs fondamentales",
+        valuesList: `
+          <li>Durabilité : projets respectueux de l’environnement</li>
+          <li>Innovation : technologies modernes et ingénierie avancée</li>
+          <li>Fiabilité : respect des délais et des standards internationaux</li>
+          <li>Croissance : création de valeur pour nos partenaires</li>
+        `,
+        stats: "Chiffres clés",
+        statsData: `
+          <li>+15 ans d’expérience cumulée</li>
+          <li>+50 projets achevés avec succès</li>
+          <li>+10 partenaires internationaux</li>
+          <li>Présence dans 4 continents</li>
+        `,
+        markets: "Présence internationale & marchés cibles",
+        marketsText: "Notre expertise s’étend en Afrique, en Europe, en Asie et en Amérique. Nous collaborons avec des acteurs publics et privés pour répondre aux besoins en infrastructures, logements et investissements stratégiques.",
+        references: "Références & clients institutionnels",
+        referencesText: "Nous avons travaillé avec des gouvernements, des institutions financières, des banques de développement et des entreprises privées dans des projets de construction, de rénovation et d’investissement.",
+        certifications: "Certifications & conformité",
+        certificationsText: "Nous respectons les normes internationales de qualité et de sécurité (ISO 9001, ISO 14001, normes anti-corruption, conformité RGPD).",
+        contact: "Contact institutionnel",
+        contactText: `
+          <p><strong>Email :</strong> contact@treston-huberlus.com</p>
+          <p><strong>Téléphone :</strong> +243859105718, +243811431593</p>
+          <p><strong>Siège social :</strong> [Ton adresse complète]</p>
+        `,
+        download: "Télécharger le Corporate Profile (PDF)"
+      },
+      en: {
+        title: "Capability Statement",
+        intro: "Company Overview",
+        introText: "TRESTON HUBERLUS Invest & Co.,Ltd is an international player in real estate, construction, and public works. We support governments, institutions, and private investors in large-scale projects, emphasizing sustainability, innovation, and reliability.",
+        expertise: "Areas of Expertise",
+        expertiseList: `
+          <li>Residential & commercial real estate development</li>
+          <li>Large-scale infrastructure and public works</li>
+          <li>Sustainable & eco-friendly construction</li>
+          <li>Investments and strategic partnerships</li>
+        `,
+        values: "Core Values",
+        valuesList: `
+          <li>Sustainability: environmentally responsible projects</li>
+          <li>Innovation: modern technologies and advanced engineering</li>
+          <li>Reliability: compliance with deadlines and international standards</li>
+          <li>Growth: creating value for our partners</li>
+        `,
+        stats: "Key Figures",
+        statsData: `
+          <li>15+ years of combined experience</li>
+          <li>50+ successfully completed projects</li>
+          <li>10+ international partners</li>
+          <li>Presence across 4 continents</li>
+        `,
+        markets: "International Presence & Target Markets",
+        marketsText: "Our expertise extends to Africa, Europe, Asia, and the Americas. We collaborate with public and private stakeholders to meet infrastructure, housing, and strategic investment needs.",
+        references: "References & Institutional Clients",
+        referencesText: "We have worked with governments, financial institutions, development banks, and private companies on construction, renovation, and investment projects.",
+        certifications: "Certifications & Compliance",
+        certificationsText: "We comply with international quality and safety standards (ISO 9001, ISO 14001, anti-corruption standards, GDPR compliance).",
+        contact: "Institutional Contact",
+        contactText: `
+          <p><strong>Email:</strong> contact@treston-huberlus.com</p>
+          <p><strong>Phone:</strong> +243859105718, +243811431593</p>
+          <p><strong>Head office:</strong> [Your full address]</p>
+        `,
+        download: "Download Corporate Profile (PDF)"
+      }
+    };
+
+    function switchLang(lang) {
+      const t = translations[lang];
+      document.getElementById("title").innerText = t.title;
+      document.getElementById("intro").innerText = t.intro;
+      document.getElementById("introText").innerText = t.introText;
+      document.getElementById("expertise").innerText = t.expertise;
+      document.getElementById("expertiseList").innerHTML = t.expertiseList;
+      document.getElementById("values").innerText = t.values;
+      document.getElementById("valuesList").innerHTML = t.valuesList;
+      document.getElementById("stats").innerText = t.stats;
+      document.getElementById("statsData").innerHTML = t.statsData;
+      document.getElementById("markets").innerText = t.markets;
+      document.getElementById("marketsText").innerText = t.marketsText;
+      document.getElementById("references").innerText = t.references;
+      document.getElementById("referencesText").innerText = t.referencesText;
+      document.getElementById("certifications").innerText = t.certifications;
+      document.getElementById("certificationsText").innerText = t.certificationsText;
+      document.getElementById("contact").innerText = t.contact;
+      document.getElementById("contactText").innerHTML = t.contactText;
+      document.getElementById("download").innerText = t.download;
+    }
+
+    window.onload = () => switchLang("fr");
+
+    function downloadPDF() {
+      window.print();
+    }
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-white shadow-md p-4 flex justify-between items-center">
+    <img src="logo.png" alt="Logo" class="h-12">
+    <nav class="space-x-6">
+      <a href="index.html" class="text-gray-700 hover:text-blue-700">Accueil</a>
+      <a href="capability.html" class="text-blue-700 font-bold">Capability Statement</a>
+      <a href="mentions.html" class="text-gray-700 hover:text-blue-700">Mentions légales</a>
+    </nav>
+    <div>
+      <button onclick="switchLang('fr')" class="px-2">FR</button> | 
+      <button onclick="switchLang('en')" class="px-2">EN</button>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="max-w-5xl mx-auto p-6 space-y-10">
+    <h1 id="title" class="text-4xl font-bold text-blue-900"></h1>
+
+    <section>
+      <h2 id="intro" class="text-2xl font-semibold text-green-700"></h2>
+      <p id="introText" class="mt-2"></p>
+    </section>
+
+    <section>
+      <h2 id="expertise" class="text-2xl font-semibold text-green-700"></h2>
+      <ul id="expertiseList" class="list-disc list-inside mt-2 space-y-1"></ul>
+    </section>
+
+    <section>
+      <h2 id="values" class="text-2xl font-semibold text-green-700"></h2>
+      <ul id="valuesList" class="list-disc list-inside mt-2 space-y-1"></ul>
+    </section>
+
+    <section>
+      <h2 id="stats" class="text-2xl font-semibold text-green-700"></h2>
+      <ul id="statsData" class="list-disc list-inside mt-2 space-y-1"></ul>
+    </section>
+
+    <section>
+      <h2 id="markets" class="text-2xl font-semibold text-green-700"></h2>
+      <p id="marketsText" class="mt-2"></p>
+    </section>
+
+    <section>
+      <h2 id="references" class="text-2xl font-semibold text-green-700"></h2>
+      <p id="referencesText" class="mt-2"></p>
+    </section>
+
+    <section>
+      <h2 id="certifications" class="text-2xl font-semibold text-green-700"></h2>
+      <p id="certificationsText" class="mt-2"></p>
+    </section>
+
+    <section>
+      <h2 id="contact" class="text-2xl font-semibold text-green-700"></h2>
+      <div id="contactText" class="mt-2"></div>
+    </section>
+
+    <div class="text-center mt-6">
+      <button id="download" onclick="downloadPDF()" class="bg-blue-700 text-white px-6 py-2 rounded shadow-lg hover:bg-blue-900"></button>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white text-center p-4">
+    © 2025 TRESTON HUBERLUS Invest & Co.,Ltd. All rights reserved.
+  </footer>
+</body>
+</html>
