@@ -488,3 +488,85 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
 </html>
 
 <a href="capability.html" class="hover:text-blue-500">Capability Statement</a>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TRESTON HUBERLUS Invest & Co.,Ltd</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-white shadow-md fixed w-full top-0 z-50">
+    <div class="max-w-7xl mx-auto flex justify-between items-center p-4">
+      <div class="flex items-center space-x-3">
+        <img src="logo.png" alt="Logo" class="h-12">
+        <span class="font-bold text-xl text-blue-900">TRESTON HUBERLUS</span>
+      </div>
+      <nav class="space-x-6 font-medium text-gray-700">
+        <a href="index.html" class="hover:text-blue-500">Accueil</a>
+        <a href="#about" class="hover:text-blue-500">À propos</a>
+        <a href="#services" class="hover:text-blue-500">Services</a>
+        <a href="capability.html" class="hover:text-blue-500">Capability Statement</a>
+        <a href="#contact" class="hover:text-blue-500">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-r from-blue-900 to-green-700 text-white text-center h-screen flex flex-col justify-center items-center">
+    <h1 class="text-4xl md:text-6xl font-bold">TRESTON HUBERLUS Invest & Co.,Ltd</h1>
+    <p class="mt-4 text-lg md:text-2xl">Durabilité • Innovation • Fiabilité • Croissance</p>
+    <a href="#services" class="mt-6 bg-white text-blue-900 px-6 py-3 rounded-lg shadow-lg font-semibold hover:bg-gray-200">Nos Services</a>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="max-w-6xl mx-auto py-16 px-6">
+    <h2 class="text-3xl font-bold text-blue-900 mb-6">À propos de nous</h2>
+    <p class="text-lg leading-relaxed">
+      TRESTON HUBERLUS Invest & Co.,Ltd est une entreprise spécialisée dans l’immobilier, la construction et les travaux publics.
+      Nous nous engageons à créer des projets modernes, durables et de haute qualité qui contribuent à la croissance économique
+      et au bien-être des communautés.
+    </p>
+  </section>
+
+  <!-- Services -->
+  <section id="services" class="bg-gray-100 py-16 px-6">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl font-bold text-blue-900 mb-10">Nos Services</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-white shadow-lg rounded-xl p-6">
+          <h3 class="text-xl font-semibold text-green-700 mb-4">Immobilier</h3>
+          <p>Développement et gestion de projets immobiliers modernes et durables.</p>
+        </div>
+        <div class="bg-white shadow-lg rounded-xl p-6">
+          <h3 class="text-xl font-semibold text-green-700 mb-4">Construction</h3>
+          <p>Conception et réalisation de bâtiments résidentiels, commerciaux et industriels.</p>
+        </div>
+        <div class="bg-white shadow-lg rounded-xl p-6">
+          <h3 class="text-xl font-semibold text-green-700 mb-4">Travaux publics</h3>
+          <p>Infrastructure urbaine, routes, ponts et aménagements pour le développement durable.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="max-w-6xl mx-auto py-16 px-6">
+    <h2 class="text-3xl font-bold text-blue-900 mb-6">Contactez-nous</h2>
+    <p class="mb-4">Vous souhaitez collaborer avec nous ou en savoir plus sur nos services ?</p>
+    <p class="mb-2">📧 Email : contact@treston-huberlus.com</p>
+    <p class="mb-2">📞 Téléphone : +XXX XXX XXX</p>
+    <p>🏢 Adresse : [Ton adresse complète]</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white text-center py-4">
+    © 2025 TRESTON HUBERLUS Invest & Co.,Ltd. Tous droits réservés.
+  </footer>
+
+</body>
+</html>
