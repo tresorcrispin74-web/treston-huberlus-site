@@ -401,9 +401,9 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
           "Strong network in local and international markets"
         ],
         contact: "Institutional Contact",
-        address: "Head Office: [Your full address]",
+        address: "Head Office: [08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula]",
         email: "Email: contact@treston-huberlus.com",
-        phone: "Phone: +XXX XXX XXX",
+        phone: "Phone: +243859105718, +243811431593",
         pdf: "📄 Download PDF"
       }
     };
