@@ -934,3 +934,35 @@ Ce site sera hébergé via **GitHub Pages** et accessible à tous.
 
 ## 📞 Contact
 📧 contact@treston-huberlus.com
+
+# 🌍 TRESTON HUBERLUS Invest & Co., Ltd
+**Entreprise de Construction & Immobilier – Kinshasa, RDC**
+
+---
+
+## 🚀 Notre Mission
+Construire l’avenir à travers des projets durables, innovants et attractifs pour les investisseurs.
+
+- 🏗️ **BTP & Infrastructures modernes**  
+- 🏠 **Immobilier durable et rentable**  
+- 🌐 **Projets d’investissement internationaux**  
+- 💼 **Partenariats stratégiques pour le développement**  
+
+---
+
+## 📂 Nos Dépôts GitHub
+- [🏢 Site officiel – version 1](https://github.com/tresorcrispin74-web/treston-huber-lus-site)  
+- [🏢 Site officiel – version 2](https://github.com/tresorcrispin74-web/treston-huberlus-site)  
+
+---
+
+## 📞 Contact
+- 📧 Email : **contact@treston-huberlus.com**  
+- 📞 Téléphone : **+243 859 105 718 / +243 811 431 518**  
+- 📍 Adresse : **08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi,  
+  Commune de Mont-Ngafula, Kinshasa 1, R.D. Congo**  
+- 🔗 LinkedIn : [TRESTON HUBERLUS](#)  
+
+---
+
+> 💡 *Nous croyons en un avenir où l’innovation et la construction créent des opportunités durables pour l’Afrique et le monde.*
