@@ -1007,3 +1007,8 @@ about.html
 services.html
 projects.html
 contact.html
+
+/assets
+   /css/style.css
+   /img/ (logo + images si tu veux en ajouter)
+index.html
