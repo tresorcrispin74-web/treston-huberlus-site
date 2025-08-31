@@ -486,3 +486,5 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
   </footer>
 </body>
 </html>
+
+<a href="capability.html" class="hover:text-blue-500">Capability Statement</a>
