@@ -27,3 +27,9 @@ Ce site est déployé gratuitement grâce à **GitHub Pages** :
 
 ## ✨ Auteur
 Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
+
+<a href="#accueil" class="flex items-center gap-3">
+  <!-- Ancien SVG -->
+  <svg>...</svg>
+  <span class="font-semibold text-[15px] sm:text-base" style="color:var(--blue)">TRESTON HUBERLUS</span>
+</a>
