@@ -570,3 +570,95 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mentions légales & Politique de confidentialité - TRESTON HUBERLUS Invest & Co.,Ltd</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    const translations = {
+      fr: {
+        title: "Mentions légales & Politique de confidentialité",
+        legal: "Mentions légales",
+        legalText: `
+          <p><strong>Raison sociale :</strong> TRESTON HUBERLUS Invest & Co.,Ltd</p>
+          <p><strong>Secteurs d'activité :</strong> Immobilier, Construction, Travaux publics</p>
+          <p><strong>Siège social :</strong> [Ton adresse complète]</p>
+          <p><strong>Email :</strong> contact@treston-huberlus.com</p>
+          <p><strong>Téléphone :</strong> +XXX XXX XXX</p>
+        `,
+        privacy: "Politique de confidentialité",
+        privacyText: `
+          <p>Nous respectons la confidentialité de vos données personnelles.</p>
+          <p>Les informations collectées via ce site sont utilisées uniquement à des fins professionnelles (prise de contact, collaboration, partenariats).</p>
+          <p>Aucune donnée n’est partagée avec des tiers sans votre consentement.</p>
+          <p>Conformément à la loi, vous disposez d’un droit d’accès, de rectification et de suppression de vos données.</p>
+        `
+      },
+      en: {
+        title: "Legal Notice & Privacy Policy",
+        legal: "Legal Notice",
+        legalText: `
+          <p><strong>Company name:</strong> TRESTON HUBERLUS Invest & Co.,Ltd</p>
+          <p><strong>Business sectors:</strong> Real Estate, Construction, Public Works</p>
+          <p><strong>Head office:</strong> [Your full address]</p>
+          <p><strong>Email:</strong> contact@treston-huberlus.com</p>
+          <p><strong>Phone:</strong> +XXX XXX XXX</p>
+        `,
+        privacy: "Privacy Policy",
+        privacyText: `
+          <p>We respect the confidentiality of your personal data.</p>
+          <p>Information collected via this site is used solely for professional purposes (contact, collaboration, partnerships).</p>
+          <p>No data is shared with third parties without your consent.</p>
+          <p>In accordance with applicable law, you have the right to access, correct, and delete your data.</p>
+        `
+      }
+    };
+
+    function switchLang(lang) {
+      const t = translations[lang];
+      document.getElementById("title").innerText = t.title;
+      document.getElementById("legal").innerText = t.legal;
+      document.getElementById("legalText").innerHTML = t.legalText;
+      document.getElementById("privacy").innerText = t.privacy;
+      document.getElementById("privacyText").innerHTML = t.privacyText;
+    }
+
+    window.onload = () => switchLang("fr");
+  </script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-white shadow-md p-4 flex justify-between items-center">
+    <img src="logo.png" alt="Logo" class="h-12">
+    <div>
+      <button onclick="switchLang('fr')" class="px-2">FR</button> | 
+      <button onclick="switchLang('en')" class="px-2">EN</button>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main class="max-w-5xl mx-auto p-6 space-y-8">
+    <h1 id="title" class="text-3xl font-bold text-blue-900"></h1>
+
+    <section>
+      <h2 id="legal" class="text-2xl font-semibold text-green-700"></h2>
+      <div id="legalText" class="space-y-2"></div>
+    </section>
+
+    <section>
+      <h2 id="privacy" class="text-2xl font-semibold text-green-700"></h2>
+      <div id="privacyText" class="space-y-2"></div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white text-center p-4">
+    © 2025 TRESTON HUBERLUS Invest & Co.,Ltd. All rights reserved.
+  </footer>
+</body>
+</html>
