@@ -1147,3 +1147,45 @@ footer {
 /services.html     → Services
 /projects.html     → Projets
 /contact.html      → Contact
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - TRESTON HUBERLUS</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">TRESTON HUBERLUS</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="about.html">À propos</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="projects.html">Projets</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="section bg-light">
+    <div class="container">
+      <h2>Contactez-nous</h2>
+      <p><strong>Email :</strong> contact@treston-huberlus.com</p>
+      <p><strong>Téléphone :</strong> +243 859 105 718 / +243 811 431 518</p>
+      <p><strong>Adresse :</strong> 08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi,<br>
+        Commune de Mont-Ngafula, Kinshasa 1, R.D. Congo</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 TRESTON HUBERLUS Invest & Co., Ltd.</p>
+    </div>
+  </footer>
+</body>
+</html>
