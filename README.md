@@ -33,3 +33,8 @@ Créé et maintenu par **TRESTON HUBERLUS Invest & Co.,Ltd**.
   <svg>...</svg>
   <span class="font-semibold text-[15px] sm:text-base" style="color:var(--blue)">TRESTON HUBERLUS</span>
 </a>
+
+<a href="#accueil" class="flex items-center gap-3">
+  <img src="logo.png" alt="TRESTON HUBERLUS Logo" class="h-10 w-auto">
+  <span class="font-semibold text-[15px] sm:text-base" style="color:var(--blue)">TRESTON HUBERLUS</span>
+</a>
