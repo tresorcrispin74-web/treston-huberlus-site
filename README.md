@@ -1195,3 +1195,89 @@ https://tresorcrispin74-web.github.io/treston-huberlus-site/
 http://tresorcrispin74-web.github.io/nom-du-depot
 
 https://tresorcrispin74-web.github.io/treston-huberlus-site/
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TRESTON HUBERLUS Invest & Co.,Ltd</title>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-white shadow-md p-4 flex justify-between items-center">
+    <img src="logo.png" alt="Logo" class="h-12">
+    <div>
+      <button onclick="switchLang('fr')" class="px-2">FR</button>
+      <button onclick="switchLang('en')" class="px-2">EN</button>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="bg-gradient-to-r from-blue-900 to-green-700 text-white text-center h-screen flex flex-col justify-center items-center">
+    <h1 class="text-4xl md:text-6xl font-bold">TRESTON HUBERLUS Invest & Co.,Ltd</h1>
+    <p class="mt-4 text-lg md:text-2xl">Durabilité • Innovation • Fiabilité • Croissance</p>
+    <a href="#services" class="mt-6 bg-white text-blue-900 px-6 py-3 rounded-lg shadow-lg font-semibold hover:bg-gray-200">Nos Services</a>
+  </section>
+
+  <!-- Sections dynamiques -->
+  <main class="max-w-5xl mx-auto p-6 space-y-8">
+    <h1 id="title" class="text-3xl font-bold text-blue-900"></h1>
+
+    <section>
+      <h2 id="legal" class="text-2xl font-semibold text-green-700"></h2>
+      <div id="legalText" class="space-y-2"></div>
+    </section>
+
+    <section>
+      <h2 id="privacy" class="text-2xl font-semibold text-green-700"></h2>
+      <div id="privacyText" class="space-y-2"></div>
+    </section>
+  </main>
+
+  <!-- Script multilingue -->
+  <script>
+    const translations = {
+      fr: {
+        title: "Mentions Légales",
+        legal: "Informations Légales",
+        legalText: `
+          <p>TRESTON HUBERLUS Invest & Co.,Ltd est une entreprise spécialisée dans l’immobilier, la construction et les travaux publics.</p>
+          <p>Nous respectons toutes les lois applicables en matière de protection des données.</p>
+        `,
+        privacy: "Politique de Confidentialité",
+        privacyText: `
+          <p>Aucune donnée n’est partagée avec des tiers sans votre consentement.</p>
+          <p>Vous avez le droit d’accéder, de corriger et de supprimer vos données.</p>
+        `
+      },
+      en: {
+        title: "Legal Notices",
+        legal: "Legal Information",
+        legalText: `
+          <p>TRESTON HUBERLUS Invest & Co.,Ltd is a company specialized in real estate, construction, and public works.</p>
+          <p>We comply with all applicable data protection laws.</p>
+        `,
+        privacy: "Privacy Policy",
+        privacyText: `
+          <p>No data is shared with third parties without your consent.</p>
+          <p>You have the right to access, correct, and delete your data.</p>
+        `
+      }
+    };
+
+    function switchLang(lang) {
+      const t = translations[lang];
+      document.getElementById("title").innerText = t.title;
+      document.getElementById("legal").innerText = t.legal;
+      document.getElementById("legalText").innerHTML = t.legalText;
+      document.getElementById("privacy").innerText = t.privacy;
+      document.getElementById("privacyText").innerHTML = t.privacyText;
+    }
+
+    window.onload = () => switchLang("fr");
+  </script>
+</body>
+</html>
