@@ -5,7 +5,8 @@ Durabilité • Innovation • Fiabilité • Croissance
 Slogan : *Un esprit fort pour un meilleur climat des affaires*
 
 ---
-## 📸 Présentation institutionnelle
+## 📸 
+Présentation institutionnelle
 
 <p align="center">
   <img src="assets/img/fondateur.jpg" alt="Fondateur de TRESTON HUBERLUS Invest & Co., Ltd" width="300"/>
