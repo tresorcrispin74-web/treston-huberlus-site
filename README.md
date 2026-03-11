@@ -1281,3 +1281,40 @@ https://tresorcrispin74-web.github.io/treston-huberlus-site/
   </script>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TRESTON HUBERLUS Invest & Co., Ltd</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">TRESTON HUBERLUS</div>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="about.html">À propos</a>
+      <a href="services.html">Services</a>
+      <a href="projects.html">Projets</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1>TRESTON HUBERLUS Invest & Co., Ltd</h1>
+    <p>Durabilité • Innovation • Fiabilité • Croissance</p>
+    <a href="#services" class="btn btn-primary">Nos Services</a>
+    <a href="#contact" class="btn btn-secondary">Demander un devis</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 TRESTON HUBERLUS Invest & Co., Ltd. Tous droits réservés.
+  </footer>
+
+</body>
+</html>
