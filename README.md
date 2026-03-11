@@ -5,6 +5,8 @@ Durabilité • Innovation • Fiabilité • Croissance
 Slogan : *Un esprit fort pour un meilleur climat des affaires*
 
 ---
+### Monsieur Trésor Crispin Ghannam MIKANDA MUDIATA, Directeur Général et Fondateur 
+---
 
 ## 📖 Présentation de l’entreprise
 **TRESTON HUBERLUS Invest & Co., Ltd** est une société multiservices spécialisée dans :  
