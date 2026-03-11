@@ -15,6 +15,7 @@ Cette image illustre le professionnalisme et l’identité institutionnelle de
 **TRESTON HUBERLUS Invest & Co., Ltd**, dirigée par son fondateur et président.  
 Elle reflète la vision de l’entreprise : sérieux, engagement et leadership dans  
 les secteurs de la construction, de l’immobilier, des travaux publics et des investissements stratégiques.
+
 Monsieur Trésor Crispin Ghannam MIKANDA MUDIATA, Directeur Général et Fondateur 
 ---
 
