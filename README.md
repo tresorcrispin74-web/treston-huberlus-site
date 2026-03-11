@@ -166,3 +166,88 @@ La construction et le BTP (Bâtiments et Travaux Publics) constituent le **cœur
 
 ### 🔹 Vision
 À travers ses activités de construction et de BTP, TRESTON HUBERLUS Invest & Co., Ltd incarne une vision claire : **bâtir des infrastructures solides et innovantes qui soutiennent la croissance économique et améliorent la qualité de vie des populations**.
+
+---
+
+## 🏠 Immobiliers durables et rentables chez TRESTON HUBERLUS Invest & Co., Ltd
+
+L’immobilier constitue un pilier stratégique de TRESTON HUBERLUS Invest & Co., Ltd. L’entreprise s’engage à développer des projets immobiliers qui allient **rentabilité économique** et **durabilité environnementale**, répondant ainsi aux besoins croissants des populations et des investisseurs.
+
+### 🔹 Expertise immobilière
+- Conception et réalisation de logements modernes, accessibles et adaptés aux standards internationaux.  
+- Développement de complexes résidentiels, commerciaux et industriels.  
+- Gestion et valorisation d’actifs immobiliers pour garantir un rendement optimal.  
+- Intégration de solutions technologiques pour améliorer la qualité de vie (domotique, efficacité énergétique).  
+
+### 🔹 Approche durable
+- Utilisation de matériaux écologiques et de procédés de construction respectueux de l’environnement.  
+- Optimisation énergétique des bâtiments pour réduire les coûts et l’empreinte carbone.  
+- Promotion de l’urbanisme responsable et de la planification durable des espaces.  
+
+### 🔹 Rentabilité et attractivité
+- Conception de projets immobiliers à forte valeur ajoutée pour les investisseurs.  
+- Garantie de rendement stable grâce à une gestion professionnelle et transparente.  
+- Développement de projets attractifs pour les marchés locaux et internationaux.  
+
+### 🔹 Impact socio-économique
+- Contribution à la réduction du déficit en logements dans les zones urbaines.  
+- Création d’espaces modernes favorisant le développement économique et social.  
+- Renforcement du climat des affaires par des projets fiables et rentables.  
+
+### 🔹 Vision
+À travers ses projets immobiliers, TRESTON HUBERLUS Invest & Co., Ltd incarne une vision claire : **offrir des solutions immobilières modernes, durables et rentables qui répondent aux besoins des populations et créent des opportunités pour les investisseurs**.
+
+---
+
+## 💹 Investissements et partenariats stratégiques chez TRESTON HUBERLUS Invest & Co., Ltd
+
+Les investissements et les partenariats stratégiques représentent un levier essentiel pour la croissance et l’expansion de TRESTON HUBERLUS Invest & Co., Ltd. L’entreprise s’appuie sur une approche proactive et transparente pour attirer des capitaux, développer des alliances solides et renforcer sa présence sur les marchés nationaux et internationaux.
+
+### 🔹 Stratégie d’investissement
+- Identification et développement de projets à forte valeur ajoutée.  
+- Diversification des portefeuilles pour réduire les risques et maximiser les rendements.  
+- Intégration des principes de durabilité et de responsabilité sociale dans chaque investissement.  
+- Mise en place de mécanismes financiers innovants pour soutenir les projets d’infrastructures et immobiliers.  
+
+### 🔹 Partenariats stratégiques
+- Collaboration avec des institutions publiques pour des projets structurants.  
+- Alliances avec des entreprises privées locales et internationales pour renforcer l’expertise et les capacités.  
+- Coopération avec des banques de développement et des investisseurs institutionnels.  
+- Développement de réseaux solides favorisant la transparence et la confiance.  
+
+### 🔹 Impact économique
+- Stimulation de l’économie locale par la création d’emplois et la valorisation des ressources.  
+- Renforcement du climat des affaires grâce à des projets fiables et attractifs.  
+- Contribution au développement durable par des investissements responsables.  
+
+### 🔹 Réalisations phares
+- Mise en place de partenariats avec des acteurs financiers pour le financement de projets immobiliers.  
+- Développement de joint-ventures dans le secteur du BTP et des infrastructures.  
+- Participation active à des projets régionaux et internationaux.  
+
+### 🔹 Vision
+À travers ses investissements et partenariats stratégiques, TRESTON HUBERLUS Invest & Co., Ltd incarne une vision claire : **créer des synergies durables, attirer des capitaux responsables et bâtir des alliances solides pour soutenir la croissance économique et institutionnelle**.
+
+---
+
+## 📖 Présentation globale de TRESTON HUBERLUS Invest & Co., Ltd
+
+TRESTON HUBERLUS Invest & Co., Ltd est une entreprise multiservices de référence, basée en République Démocratique du Congo, qui s’impose comme un acteur majeur dans le développement économique et institutionnel à travers quatre piliers stratégiques :
+
+### 🏗️ Construction & BTP
+La société est spécialisée dans la conception et la réalisation de bâtiments résidentiels, commerciaux et institutionnels, ainsi que dans le développement d’infrastructures publiques (routes, ponts, ouvrages hydrauliques). Elle garantit la durabilité et la sécurité de ses projets grâce à l’utilisation de matériaux de qualité et au respect des normes internationales.
+
+### 🏠 Immobilier durable et rentable
+TRESTON HUBERLUS développe des projets immobiliers modernes qui allient rentabilité économique et durabilité environnementale. L’entreprise conçoit des logements et complexes adaptés aux besoins des populations et des investisseurs, tout en intégrant des solutions écologiques et technologiques pour améliorer la qualité de vie.
+
+### 🚜 Travaux publics & infrastructures
+L’entreprise contribue activement au développement socio-économique par la construction et la réhabilitation d’infrastructures essentielles : routes, ponts, réseaux d’assainissement, écoles et hôpitaux. Ces projets renforcent la mobilité, l’accès aux services et stimulent l’économie locale.
+
+### 💹 Investissements & partenariats stratégiques
+TRESTON HUBERLUS attire des capitaux responsables et développe des alliances solides avec des institutions publiques, privées et financières. Sa stratégie repose sur la diversification, la transparence et la durabilité, afin de maximiser les rendements et soutenir des projets structurants à forte valeur ajoutée.
+
+---
+
+### 🌍 Vision intégrée
+À travers ces quatre domaines, TRESTON HUBERLUS Invest & Co., Ltd incarne une vision claire :  
+**bâtir des infrastructures solides, offrir des solutions immobilières modernes, développer des projets publics durables et créer des synergies stratégiques pour soutenir la croissance économique et améliorer la qualité de vie des populations.**
