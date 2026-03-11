@@ -126,3 +126,43 @@ L’entreprise met en avant ses réalisations à travers :
 
 > 💡 *Nous croyons en un avenir où l’innovation et la construction créent des opportunités durables pour l’Afrique et le monde.*
 
+---
+
+## 📖 Présentation
+**TRESTON HUBERLUS Invest & Co., Ltd** est une société multiservices spécialisée dans :  
+- 🏗️ Construction (BTP & infrastructures modernes)  
+- 🏠 Immobilier durable et rentable  
+- 🚜 Travaux publics  
+- 💹 Investissements et partenariats stratégiques  
+
+Notre mission : **Construire l’avenir à travers des projets durables, innovants et attractifs pour les investisseurs.**
+
+---
+
+## 🏗️ Construction et BTP chez TRESTON HUBERLUS Invest & Co., Ltd
+
+La construction et le BTP (Bâtiments et Travaux Publics) constituent le **cœur stratégique** de TRESTON HUBERLUS Invest & Co., Ltd. L’entreprise s’est imposée comme un acteur majeur dans le développement d’infrastructures modernes et durables en République Démocratique du Congo et à l’international.
+
+### 🔹 Expertise technique
+- Conception et réalisation de bâtiments résidentiels, commerciaux et institutionnels.  
+- Développement d’infrastructures publiques : routes, ponts, réseaux d’assainissement, ouvrages hydrauliques.  
+- Utilisation de matériaux de haute qualité et de procédés innovants pour garantir la durabilité.  
+- Respect strict des normes internationales de sécurité et de qualité (ISO 9001, ISO 14001).  
+
+### 🔹 Approche durable
+- Intégration de solutions éco-responsables dans chaque projet.  
+- Optimisation énergétique des bâtiments pour réduire l’empreinte carbone.  
+- Mise en œuvre de pratiques de construction respectueuses de l’environnement.  
+
+### 🔹 Impact socio-économique
+- Création d’emplois locaux et formation de main-d’œuvre qualifiée.  
+- Contribution au développement urbain et rural par des infrastructures modernes.  
+- Renforcement du climat des affaires grâce à des projets fiables et transparents.  
+
+### 🔹 Réalisations phares
+- Construction de complexes résidentiels modernes à Kinshasa.  
+- Réhabilitation de routes et ouvrages publics dans plusieurs provinces.  
+- Partenariats avec des institutions publiques et privées pour des projets d’envergure.  
+
+### 🔹 Vision
+À travers ses activités de construction et de BTP, TRESTON HUBERLUS Invest & Co., Ltd incarne une vision claire : **bâtir des infrastructures solides et innovantes qui soutiennent la croissance économique et améliorent la qualité de vie des populations**.
