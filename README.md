@@ -251,3 +251,163 @@ TRESTON HUBERLUS attire des capitaux responsables et développe des alliances so
 ### 🌍 Vision intégrée
 À travers ces quatre domaines, TRESTON HUBERLUS Invest & Co., Ltd incarne une vision claire :  
 **bâtir des infrastructures solides, offrir des solutions immobilières modernes, développer des projets publics durables et créer des synergies stratégiques pour soutenir la croissance économique et améliorer la qualité de vie des populations.**
+
+---
+
+## 🌍 Valeurs fondamentales de TRESTON HUBERLUS Invest & Co., Ltd
+
+Les valeurs de TRESTON HUBERLUS Invest & Co., Ltd constituent le socle de son identité et guident chacune de ses actions. Elles se reflètent non seulement dans ses projets, mais également dans son site institutionnel, conçu comme une vitrine de transparence et de professionnalisme.
+
+### 🔹 Durabilité
+Nous plaçons la durabilité au cœur de nos projets. Chaque construction, chaque investissement et chaque partenariat est pensé pour avoir un impact positif à long terme, en respectant l’environnement et en contribuant au bien-être des générations futures.
+
+### 🔹 Innovation
+L’innovation est notre moteur. Nous intégrons des technologies modernes, des procédés de construction avancés et des solutions numériques pour offrir des projets à la fois performants et adaptés aux besoins contemporains.
+
+### 🔹 Fiabilité
+La fiabilité est notre promesse. Nous respectons les délais, les budgets et les standards internationaux. Nos partenaires et clients peuvent compter sur notre engagement à livrer des projets conformes et de haute qualité.
+
+### 🔹 Croissance
+Nous croyons en une croissance partagée. Nos projets visent à créer de la valeur pour nos partenaires, nos clients et les communautés locales. La croissance économique et sociale est au centre de notre stratégie.
+
+---
+
+### 🌐 Valeurs du site institutionnel
+Le site de TRESTON HUBERLUS Invest & Co., Ltd incarne ces valeurs en offrant :
+- Une **présentation claire et multilingue** (FR/EN) pour une accessibilité internationale.  
+- Une **documentation transparente** (Capability Statement, mentions légales, politique de confidentialité).  
+- Une **interface moderne et intuitive**, reflétant l’innovation et la fiabilité de l’entreprise.  
+- Un **outil stratégique** pour renforcer la visibilité et attirer des investisseurs responsables.  
+
+---
+
+### ✨ Vision
+À travers ses valeurs, TRESTON HUBERLUS Invest & Co., Ltd affirme sa vision :  
+**construire un avenir durable, innovant et prospère, où chaque projet contribue à améliorer la qualité de vie et à renforcer le climat des affaires.**
+
+---
+
+# VALEURS FONDAMENTALES 
+
+* La Durabilité 
+* L'innovation 
+* La fiabilité 
+* La croissance 
+
+---
+
+### 🌱 Durabilité
+
+La durabilité est au cœur de la philosophie de TRESTON HUBERLUS Invest & Co., Ltd. Elle ne se limite pas à un simple principe, mais constitue une véritable **ligne directrice** dans la conception, la réalisation et la gestion de tous nos projets.
+
+#### 🔹 Approche environnementale
+- Utilisation de matériaux écologiques et recyclables pour réduire l’impact environnemental.  
+- Adoption de procédés de construction respectueux de la nature et des ressources locales.  
+- Optimisation énergétique des bâtiments et infrastructures pour limiter les émissions de carbone.  
+- Promotion des énergies renouvelables et des solutions vertes dans nos projets immobiliers et publics.  
+
+#### 🔹 Responsabilité sociale
+- Développement de projets qui améliorent durablement la qualité de vie des populations.  
+- Création d’infrastructures qui favorisent l’accès à l’éducation, à la santé et à l’eau potable.  
+- Engagement dans des initiatives locales pour soutenir les communautés et renforcer la cohésion sociale.  
+
+#### 🔹 Pérennité économique
+- Conception de projets immobiliers et d’infrastructures pensés pour durer dans le temps.  
+- Garantie de rentabilité à long terme pour les investisseurs grâce à une gestion responsable.  
+- Mise en place de partenariats stratégiques basés sur la transparence et la confiance.  
+
+#### 🔹 Vision
+Pour TRESTON HUBERLUS Invest & Co., Ltd, la durabilité signifie **bâtir aujourd’hui en pensant à demain**. Chaque projet est conçu pour être un héritage positif, capable de soutenir la croissance économique tout en préservant l’environnement et en améliorant la vie des générations futures.
+
+---
+
+### 💡 Innovation
+
+L’innovation est le moteur de TRESTON HUBERLUS Invest & Co., Ltd. Elle se manifeste dans la conception, la réalisation et la gestion de projets qui intègrent les technologies les plus modernes et les meilleures pratiques internationales. L’entreprise considère l’innovation non seulement comme un avantage compétitif, mais comme une **culture organisationnelle**.
+
+#### 🔹 Innovation technologique
+- Adoption de procédés de construction avancés et de matériaux de nouvelle génération.  
+- Intégration de solutions numériques (BIM, domotique, gestion intelligente des infrastructures).  
+- Utilisation de systèmes de suivi et de contrôle en temps réel pour garantir la qualité et la sécurité.  
+
+#### 🔹 Innovation organisationnelle
+- Développement de méthodes de gestion de projet agiles et transparentes.  
+- Mise en place de partenariats stratégiques pour favoriser le transfert de compétences et de technologies.  
+- Formation continue des équipes pour renforcer leur expertise et leur adaptabilité.  
+
+#### 🔹 Innovation durable
+- Conception de bâtiments et d’infrastructures éco-responsables.  
+- Intégration de solutions énergétiques renouvelables et de systèmes de réduction des déchets.  
+- Développement de projets immobiliers et publics pensés pour répondre aux défis climatiques et sociaux.  
+
+#### 🔹 Impact
+Grâce à son approche innovante, TRESTON HUBERLUS Invest & Co., Ltd :  
+- Améliore la performance et la durabilité de ses projets.  
+- Renforce sa compétitivité sur les marchés locaux et internationaux.  
+- Crée des solutions adaptées aux besoins des populations et des investisseurs.  
+
+#### 🔹 Vision
+Pour TRESTON HUBERLUS Invest & Co., Ltd, l’innovation est une **clé de transformation** : elle permet de bâtir des projets modernes, durables et attractifs, tout en anticipant les évolutions économiques, sociales et environnementales.
+
+---
+
+### 🔒 Fiabilité
+
+La fiabilité est l’un des piliers de TRESTON HUBERLUS Invest & Co., Ltd. Elle représente notre engagement à livrer des projets conformes aux attentes, dans le respect des délais, des budgets et des standards internationaux. Être fiable signifie pour nous **assurer la continuité, la transparence et la qualité** dans toutes nos activités.
+
+#### 🔹 Engagement contractuel
+- Respect strict des délais de livraison et des engagements pris avec nos partenaires.  
+- Transparence dans la gestion des ressources et des budgets.  
+- Garantie de conformité aux normes locales et internationales.  
+
+#### 🔹 Qualité et sécurité
+- Mise en œuvre de processus de contrôle qualité à chaque étape des projets.  
+- Application des normes ISO et des standards internationaux de construction et de gestion.  
+- Priorité donnée à la sécurité des travailleurs, des usagers et des communautés.  
+
+#### 🔹 Confiance institutionnelle
+- Relations solides et durables avec les autorités publiques, les investisseurs et les partenaires privés.  
+- Réputation fondée sur la constance et la crédibilité de nos réalisations.  
+- Communication claire et régulière pour renforcer la confiance et la transparence.  
+
+#### 🔹 Impact
+Grâce à sa fiabilité, TRESTON HUBERLUS Invest & Co., Ltd :  
+- Renforce le climat des affaires en République Démocratique du Congo et à l’international.  
+- Attire des investisseurs responsables et des partenaires stratégiques.  
+- Garantit la pérennité et la rentabilité des projets réalisés.  
+
+#### 🔹 Vision
+Pour TRESTON HUBERLUS Invest & Co., Ltd, la fiabilité est une **valeur de confiance** : elle assure que chaque projet est une promesse tenue, un engagement respecté et une preuve de notre crédibilité institutionnelle.
+
+---
+
+### 📈 Croissance
+
+La croissance est au cœur de la stratégie de TRESTON HUBERLUS Invest & Co., Ltd. Elle ne se limite pas à l’expansion économique de l’entreprise, mais englobe également le développement des communautés, des marchés et des partenariats. Pour nous, la croissance est une **valeur partagée**, qui bénéficie à la fois aux investisseurs, aux clients et aux populations locales.
+
+#### 🔹 Croissance économique
+- Développement de projets immobiliers et d’infrastructures générant des revenus stables et durables.  
+- Diversification des activités pour réduire les risques et maximiser les opportunités.  
+- Contribution à l’essor du climat des affaires en République Démocratique du Congo et à l’international.  
+
+#### 🔹 Croissance sociale
+- Création d’emplois directs et indirects dans les secteurs du BTP, de l’immobilier et des services.  
+- Amélioration des conditions de vie grâce à des logements modernes et des infrastructures essentielles.  
+- Renforcement de la cohésion sociale par des projets inclusifs et accessibles.  
+
+#### 🔹 Croissance institutionnelle
+- Développement de partenariats solides avec des acteurs publics et privés.  
+- Renforcement de la crédibilité institutionnelle par la transparence et la fiabilité des projets.  
+- Expansion de la présence internationale de l’entreprise sur plusieurs continents.  
+
+#### 🔹 Impact
+Grâce à sa vision de la croissance, TRESTON HUBERLUS Invest & Co., Ltd :  
+- Stimule l’économie locale et régionale.  
+- Attire des investisseurs responsables et des partenaires stratégiques.  
+- Contribue à un développement durable et équilibré.  
+
+#### 🔹 Vision
+Pour TRESTON HUBERLUS Invest & Co., Ltd, la croissance est une **valeur de prospérité partagée** : elle vise à bâtir un avenir où l’expansion économique s’accompagne d’un progrès social et institutionnel, créant ainsi un environnement favorable aux investissements et au développement durable.
+
+---
+
