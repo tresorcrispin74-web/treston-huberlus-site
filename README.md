@@ -125,3 +125,4 @@ L’entreprise met en avant ses réalisations à travers :
 ---
 
 > 💡 *Nous croyons en un avenir où l’innovation et la construction créent des opportunités durables pour l’Afrique et le monde.*
+
