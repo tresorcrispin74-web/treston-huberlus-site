@@ -122,7 +122,7 @@ L’entreprise met en avant ses réalisations à travers :
 ---
 
 ## 📞 Coordonnées & Contacts
-- 📧 Email : **contact@treston-huberlus.com**  
+- 📧 Email : **contact@treston-huberlus.com**, tresorcrispinghannammikanda@gmail.com, tresorcrispin74@gmail.com 
 - 📞 Téléphone : **+243 859 105 718 / +243 811 431 518**  
 - 📍 Adresse : **08, Avenue Esanga, Quartier CPA Mushie, Localité de Mbudi, Commune de Mont-Ngafula, Kinshasa, RDC**  
 - 🔗 LinkedIn : [TRESTON HUBERLUS](#)
